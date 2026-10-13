@@ -51,8 +51,7 @@ I'm developing my software engineering skills and looking for opportunities to c
 
 Interested in working together or discussing a **2027 internship / WIL placement**?
 
-[📄 View My CV](./Willem-Booysen-CV.pdf)
-
+[📄 View My CV](./Willem%20Booysen%20CV%202026_new.pdf)
 ---
 
 <div align="center">
