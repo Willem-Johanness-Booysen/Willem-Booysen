@@ -51,7 +51,7 @@ I'm developing my software engineering skills and looking for opportunities to c
 
 Interested in working together or discussing a **2027 internship / WIL placement**?
 
-[Request my CV by email](mailto:willibooysen@gmail.com?subject=CV%20Request%20-%20Willem%20Booysen) or [connect with me on LinkedIn](https://www.linkedin.com/in/willem-booysen-a39a562ab/).
+[📄 View My CV](./Willem-Booysen-CV.pdf)
 
 ---
 
