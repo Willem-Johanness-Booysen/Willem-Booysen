@@ -40,6 +40,24 @@ I enjoy turning ideas into practical solutions, with a particular interest in **
 An academic project exploring how AI can support communication by translating sign language into speech. This work reflects my interest in building technology that improves accessibility and makes a practical difference in people's lives.
 
 **Focus:** Artificial intelligence · Accessibility · Software development · Team collaboration
+## 🤝 Group Projects
+
+These are academic projects I've worked on with fellow students.
+
+- 🤟 [Sign Speak AI](https://github.com/DSReaper/Sign-Speak-AI)
+  — A web application supporting communication through South African Sign Language.
+
+- 💻 [SEN831 — Group F](https://github.com/RynoGz/SEN831_Group_F)
+
+- 🧠 [Sentiment Analysis Project](https://github.com/steven-riaan-piek/Sentiment-Analysis-Project)
+
+- 📦 [University Cleaning Inventory & Issuance System](https://github.com/Armand-JV/PRG-381-University-Cleaning-Inventory-Issuance-System)
+  — A Java system for managing cleaning supplies, stock and issuances.
+
+- 🌐 [WPR381 Web Programming Project](https://github.com/ReinardPieters/WPR381_Project)
+
+- 🦸 [Sky High Super Hero Academy](https://github.com/Waldo-Blom/PRG282-Sky_High_Super_Hero_Academy)
+  — A student management system built with C# and Windows Forms.
 
 🔎 [Explore my public repositories](https://github.com/Willem-Johanness-Booysen?tab=repositories)
 
